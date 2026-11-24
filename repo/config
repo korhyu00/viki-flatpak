@@ -1,0 +1,11 @@
+[core]
+repo_version=1
+mode=archive-z2
+indexed-deltas=true
+
+[flatpak]
+title=Viki
+comment=Viki, ta compagne de bureau
+homepage=https://korhyu.com
+icon=https://korhyu00.github.io/viki-flatpak/viki.png
+default-branch=master
